@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Just a fella learning to code, one bug at a time.
+
+Currently participating in
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@natebaker75743853/30-nites-of-code)  
+  ![@natebaker75743853 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=natebaker75743853)
