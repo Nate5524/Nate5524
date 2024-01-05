@@ -18,5 +18,5 @@ Just a fella learning to code, one bug at a time.
 
 Currently participating in
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@natebaker75743853/30-nites-of-code)  
-  ![@natebaker75743853 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=natebaker75743853)
+  [Check out my progress!](https://www.codedex.io/@nate5524/30-nites-of-code)  
+  ![@nate5524 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nate5524)
