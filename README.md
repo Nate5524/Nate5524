@@ -14,9 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Just a fella learning to code, one bug at a time.
+#### Get to know me:
 
-Currently participating in
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@nate5524/30-nites-of-code)  
-  ![@nate5524 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nate5524)
+🌱 I'm currently studying for a bachelor's degree of computer science from James Madison University.
+
+🔭 I'm currently working on a project I'm calling [carcassonneDB](https://github.com/Nate5524/carcassonneDB), a site to visualize all of the game pieces in the board game [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game)).
+
+💬 Ask me about anything I've worked on that looks interesting. I'm always glad to share!
+
+📫 How to reach me:
+
+<ul>
+  <li>Phone: (757)-402-2696</li>
+  <li>Email: natebaker757@gmail.com</li>
+</ul>    
+
