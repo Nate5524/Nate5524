@@ -1,31 +1,21 @@
-### Hi there 👋
+### Hi! I'm Nate
 
-<!--
-**Nate5524/Nate5524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 	▷ Get to know me:
+- currently studying for a bachelor's degree of computer science from James Madison University.
+- interested in the intersection of computers and logic
+- absolutely obsessed with the Star Wars universe
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-#### Get to know me:
+#### 	▷  Projects:
+- [Scrumboard](https://github.com/rileypb/sb-angular) - a program used to teach agile development to students made with JMU's [Prof. Riley](https://www.jmu.edu/cise/people/faculty/riley-philip.shtml)
+- 4VA - a program to get information in the hands of immigrants made with JMU's [Dr. Rizvi](https://www.jmu.edu/cise/people/faculty/rizvi-mona.shtml)
+- [CarcassonneDB](https://github.com/Nate5524/carcassonneDB) - a pet project site to visualize all of the game pieces in the board game [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game)).
+- JMU'vies - a movie themed social media site made to practice team development strategies
 
-🌱 I'm currently studying for a bachelor's degree of computer science from James Madison University.
 
-🔭 I'm currently working on a project I'm calling [carcassonneDB](https://github.com/Nate5524/carcassonneDB), a site to visualize all of the game pieces in the board game [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game)).
-
-💬 Ask me about anything I've worked on that looks interesting. I'm always glad to share!
-
-📫 How to reach me:
-
-<ul>
-  <li>Phone: (757)-402-2696</li>
-  <li>Email: natebaker757@gmail.com</li>
-</ul>    
+#### 	▷ Contact Me!:
+<!--   <li>Phone: (757)-402-2696</li> -->
+Feel free to reach out if you have any questions/feedback/etc.
+- Email: natebaker757@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/nathan-baker-50a18423a/)
 
